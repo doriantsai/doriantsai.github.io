@@ -38,7 +38,7 @@ feature_row:
 </div>
 
 <p style="text-align: center;">
-I am a robotics engineer, engineering educator and technology communicator. I push the boundaries of technology by designing and building robotic systems and assessing their capabilities in real-world applications. I also create and present engaging demonstrations to teach others about technology. <a href="/about_me/">Learn more about me...</a>
+I am a robotics engineer, engineering educator and technology communicator. I enjoy pushing the boundaries of technology by designing and building robotic systems and assessing their capabilities in real-world applications. I am also passionate about creating and presenting engaging demonstrations to teach others about technology. <a href="/about_me/">Learn more about me...</a>
 </p>
 
 {% include feature_row %}
