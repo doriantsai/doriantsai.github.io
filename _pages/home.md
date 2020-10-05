@@ -18,12 +18,12 @@ feature_row:
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Projects"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/mm-free-feature.png
     alt: "Publications"
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "Publications"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/mm-responsive-feature.png
     alt: "Media Appearances"
     url: "/media/"
     btn_class: "btn--primary"
