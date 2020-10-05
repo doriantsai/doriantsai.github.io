@@ -14,53 +14,34 @@ header:
 excerpt: Robotics Engineer \| Engineering Educator \| Technology Communicator
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "robotics engineer"
-    image_hover: "Robotics Engineer"
-    # title: "Robotics Engineer"
-    # excerpt: "Check out various project I am working or have completed."
+    alt: "Projects"
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Projects"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "engineering educator"
-    # title: "Engineering Educator"
-    # excerpt: "10 years experience teaching engineering, check out some of my posts."
-    url: "/posts/"
+    alt: "Publications"
+    url: "/publications/"
     btn_class: "btn--primary"
-    btn_label: "Posts"
+    btn_label: "Publications"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "technology communicator"
-    # title: "Technology Communicator"
-    # excerpt: "I love engaging the public through rich demonstrations."
-    url: "/publications_and_media/"
+    alt: "Media Appearances"
+    url: "/media/"
     btn_class: "btn--primary"
     btn_label: "Media Appearances"      
 ---
 
+<!-- *Any sufficiently advanced technology is indistinguishable from magic.* - Arthur C. Clarke -->
+
+<div>
+    <p style="margin: 0 20% 0.2em 20%; text-align: center; font-size: 1.125em; text-transform: uppercase; font-style: italic;">Any sufficiently advanced technology is indistinguishable from magic.</p>
+    <p style="margin: 0 20% 1.3em 20%; text-align: center; font-size: 1em; border-bottom: 1px solid #aaa;">- Arthur C. Clarke</p>
+</div>
+
+<p style="text-align: center;">
+I am a robotics engineer, engineering educator and technology communicator. I push the boundaries of technology by designing and building robotic systems and assessing their capabilities in real world applications. I also create and present engaging demonstrations to teach others about technology. <a href="/about_me/">Learn more about me...</a>
+</p>
+
 {% include feature_row %}
 
-<!-- <div class="feature__wrapper">
-    <div class="feature__item">
-        <div class="archive_item">
-            <div class="archive__item-teaser" style="margin-bottom: 1em;">
-                <img src="/assets/images/mm-customizable-feature.png" alt="robotics engineer">
-            </div>
-        </div>
-    </div>
-    <div class="feature__item">
-        <div class="archive_item">
-            <div class="archive__item-teaser"  style="margin-bottom: 1em;">
-                <img src="/assets/images/mm-customizable-feature.png" alt="robotics engineer">
-            </div>
-        </div>
-    </div>
-    <div class="feature__item">
-        <div class="archive_item">
-            <div class="archive__item-teaser"  style="margin-bottom: 1em;">
-                <img src="/assets/images/mm-customizable-feature.png" alt="robotics engineer">
-            </div>
-        </div>
-    </div>
-</div> -->
 
-I am a robotics engineer, engineering educator and technology communicator. I push the boundaries of technology by designing and building robotic systems and assessing their capabilities in real world applications. I have worked with universities, governments and the private sector for the past 5 years and have worked on several projects. Notable projects include assessing the readiness of the Australian roads for autonomous vehcicles on a multi-million dollar government contract as well as the development and manufacturing of a fleet of mini-autonomous vehicles for research and education purposes. My role has also allowed me to engage my passion for education and I have taught engineering for 10 years, furthering my communication skillset. Some of my career highlights include guest starring in Childrens TV shows and presenting an interactive demonstration about autonomous vehicles to an audience of 1000 people. I would love to build evermore sophistacted robots, like Disney's Robotic Stuntman, as well as continue to create engaging presentations that help teach the public about all things technology.
+

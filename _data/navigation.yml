@@ -1,9 +1,13 @@
 main:
   - title: "Home"
     url: /
+  - title: "About Me"
+    url: /about_me/
   - title: "Projects"
     url: /projects/
-  - title: "Publications | Media"
-    url: /publications_and_media/
+  - title: "Publications"
+    url: /publications/
+  - title: "Media"
+    url: /media/
   # - title: "Posts"
   #   url: /posts/

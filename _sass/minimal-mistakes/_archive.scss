@@ -282,8 +282,8 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
+  margin-bottom: 1.3em;
+  // border-bottom: 1px solid $border-color;
 
   .archive__item-title {
     margin-bottom: 0;
@@ -294,6 +294,12 @@
   position: relative;
   margin-bottom: 2em;
   font-size: 1.125em;
+  padding: 0.75em;
+  // border-style: solid;
+  // border-width: 0.1em;
+  // border-color: #021433;
+  // border-radius: 0.75em;
+  transition: transform .2s; /* Animation */
 
   @include breakpoint($small) {
     float: left;
@@ -462,6 +468,10 @@
   }
 }
 
+.feature__item:hover{
+  transform: scale(1.08);
+  // cursor: pointer;
+}
 
 
 /* Place inside an archive layout */
