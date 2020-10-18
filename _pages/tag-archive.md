@@ -1,6 +1,7 @@
 ---
+published: false
 title: "Posts by Tag"
-permalink: /tags/
+permalink: /tag_archive/
 layout: tags
 author_profile: true
 ---

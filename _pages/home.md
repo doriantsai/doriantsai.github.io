@@ -11,7 +11,7 @@ header:
 #     - label: "<i class='fas fa-download'></i> Resume"
 #       url: "/assets/downloads/JM_Resume.txt"
 #       file_download: false
-excerpt: Robotics Engineer \| Engineering Educator \| Technology Communicator
+excerpt: Robotics Engineer \| Engineering Educator \| STEM Communicator
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Projects"
@@ -32,13 +32,13 @@ feature_row:
 
 <!-- *Any sufficiently advanced technology is indistinguishable from magic.* - Arthur C. Clarke -->
 
-<div>
+<!-- <div>
     <p style="margin: 0 20% 0.2em 20%; text-align: center; font-size: 1.125em; text-transform: uppercase; font-style: italic;">Any sufficiently advanced technology is indistinguishable from magic.</p>
     <p style="margin: 0 20% 1.3em 20%; text-align: center; font-size: 1em; border-bottom: 1px solid #aaa;">- Arthur C. Clarke</p>
-</div>
+</div> -->
 
 <p style="text-align: center;">
-I am a robotics engineer, engineering educator and technology communicator. I enjoy pushing the boundaries of technology by designing and building robotic systems and assessing their capabilities in real-world applications. I am also passionate about creating and presenting engaging demonstrations to teach others about technology. <a href="/about_me/">Learn more about me...</a>
+I am a robotics engineer, engineering educator and STEM communicator. I enjoy pushing the boundaries of technology by designing and building robotic systems and assessing their capabilities in real-world applications. I am also passionate about creating and presenting engaging demonstrations to teach others about STEM. <a href="/about_me/">Learn more about me...</a>
 </p>
 
 {% include feature_row %}

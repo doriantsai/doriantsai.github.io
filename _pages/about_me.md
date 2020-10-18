@@ -3,6 +3,7 @@ permalink: /about_me/
 title: "About Me"
 author_profile: true
 ---
+I am a robotics engineer, engineering educator and STEM communicator. I enjoy pushing the boundaries of technology by designing and building robotic systems and assessing their capabilities in real-world applications. I am also passionate about creating and presenting engaging demonstrations to teach others about STEM.
 
 I have worked with universities, governments and the private sector for over five years and completed several highly-successful projects. Some of these include, assessing the readiness of the Australian roads for autonomous vehicles on a multi-million dollar government contract. As well as the development and manufacturing of a fleet of mini-autonomous vehicles that are used for research and education.
 
