@@ -19,10 +19,24 @@ title: James Mount
 name: James Mount
 email: jmount1992@gmail.com
 description: James Mount - a robotics engineer, engineering educator and technology communicator. About James Mount, his projects and notable career highlights. 
-url: https://jmount1992.github.io
+url: https://jamesmount.tech
 repository: jmount1992/jmount1992.github.io
 minimal_mistakes_skin: deep_sea
-search: true
+words_per_minute: 200
+
+# Search Settings
+search: false
+
+# SEO Related
+google_site_verification: ktrV0f4Jrvrdh-AeYMjp0aMyL3_bg7uamP6IVglHvwc
+
+# Analytics
+analytics:
+  provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id: "UA-180685533-1" # Replace this with your ID, or delete
+    anonymize_ip: true
+
 
 # Social settings
 twitter:
@@ -30,16 +44,16 @@ twitter:
 github:
   username: jmount1992
 
-
 # Build settings
 markdown: kramdown
 # remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /_posts/page:num/
 timezone: Australia/Brisbane
 
+# Include
 include:
   - _pages
 
@@ -55,6 +69,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -64,6 +79,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Author Sidebar Settings
 author:
   name   : "James Mount"
   avatar : "/assets/images/jm_profile.jpeg"
@@ -83,6 +99,7 @@ author:
       icon: "fas fa-envelope"
       # url: "jmount1992@gmail.com"
 
+# Footer Settings
 footer:
   links:
     - label: "LinkedIn"
@@ -98,6 +115,7 @@ footer:
       icon: "fas fa-fw fa-envelope"
       # url: "jmount1992@gmail.com"
 
+# Page Defaults
 defaults:
   # _posts
   - scope:
@@ -118,6 +136,7 @@ defaults:
       layout: single
       author_profile: true
 
+# Archive Settings
 category_archive:
   type: liquid
   path: /categories/
