@@ -95,9 +95,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "jmount1992@gmail.com"
+    - label: "Email"
       icon: "fas fa-envelope"
-      # url: "jmount1992@gmail.com"
+      url: "/about_me#contact_me"
 
 # Footer Settings
 footer:
@@ -111,9 +111,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jmount1992"
-    - label: "jmount1992@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      # url: "jmount1992@gmail.com"
+      url: "/about_me#contact_me"
 
 # Page Defaults
 defaults:
