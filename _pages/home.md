@@ -27,7 +27,7 @@ feature_row:
     alt: "Media Appearances"
     url: "/media/"
     btn_class: "btn--primary"
-    btn_label: "Media Appearances"      
+    btn_label: "Media and Events"      
 ---
 
 <!-- *Any sufficiently advanced technology is indistinguishable from magic.* - Arthur C. Clarke -->
