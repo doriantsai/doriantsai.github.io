@@ -4,6 +4,18 @@
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
 
+/* CUSTOM CSS */
+#profileimage {
+    display: none;
+}
+
+@media screen and (min-width:1024px){
+    #profileimage{
+        display: block;
+        width: 20%;
+    }
+}
+
 /* Variables */
 @import "minimal-mistakes/variables";
 

@@ -37,6 +37,8 @@ feature_row:
     <p style="margin: 0 20% 1.3em 20%; text-align: center; font-size: 1em; border-bottom: 1px solid #aaa;">- Arthur C. Clarke</p>
 </div> -->
 
+
+
 <p style="text-align: center; width: 85%; margin: 0 auto 0.75em auto;">
 Robotics engineering is my passion, alongside engineering education and STEM communication. My current role has me pushing the boundaries of technology by designing and building robotic systems and assessing their capabilities in real-world applications. Teaching others about STEM through engaging and dynamic demonstrations inspires and excites me.
 <br>

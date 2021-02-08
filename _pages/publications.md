@@ -6,6 +6,8 @@ classes: wide
 
 <h1 style="text-align: center; margin-bottom: 1em;">Research Publications</h1>
 
+<p style="text-align: center; border-bottom: 2px solid #aaa; padding-bottom: 0.75em; margin: 0 12% 0.75em 12%;"><a href="https://ieeexplore.ieee.org/document/9286542" style="text-decoration: none; font-style: italic;">Unsupervised Selection of Optimal Parameters for Visual Place Recognition Algorithms using Gaussian Mixture MOdels</a><br>J. Mount, M. Xu, L. Dawes, and M. Milford<br>IEEE Robotics and Automation Letters (RAL)<br>April 2021</p>
+
 <p style="text-align: center; border-bottom: 2px solid #aaa; padding-bottom: 0.75em; margin: 0 12% 0.75em 12%;"><a href="https://ieeexplore.ieee.org/abstract/document/8760425/?casa_token=KKB17HKO_f4AAAAA:YIqtXgVUOhO_PPLVP_4iMB53EAb6XDCsiwf_MJGE8A91AULjbpBguMl9Gqk6hN1tsmrSHxoOCW4" style="text-decoration: none; font-style: italic;">Automatic Coverage Selection for Surface-Based Visual Localization</a><br>J. Mount, L. Dawes, and M. Milford<br>IEEE Robotics and Automation Letters (RAL)<br>July 2019</p>
 
 <p style="text-align: center; border-bottom: 2px solid #aaa; padding-bottom: 0.75em; margin: 0 12% 0.75em 12%;"><a href="https://eprints.qut.edu.au/199350/" style="text-decoration: none; font-style: italic;">Image Rejection and Match Verification to Improve Surface-Based Localization</a><br>J. Mount, L. Dawes, and M. Milford<br>Australasian Conference on Robotics and Automation (ACRA)<br>December 2017</p>
