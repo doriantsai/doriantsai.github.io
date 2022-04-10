@@ -11,6 +11,8 @@ Dorian is currently a project specialist in automation prospecting for the Reef 
 
 Dorian received his Bachelor’s of Applied Science in Engineering Science from the University of Toronto, Canada, and a double Masters of Science in Space Science & Technology from Lulea Technical University in Sweden, and in Robotics & Automation from Aalto University in Finland. He completed his Master’s thesis project at the NASA Jet Propulsion Lab on autonomous vision-based tether-assisted rover docking. He then worked as a robotics engineer at the Canadian Space Agency before arriving at QUT for his PhD.
 
+TODO: Link to CV, etc
+
 <h1 id="contact_me">Contact Me</h1>
 
 
