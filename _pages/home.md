@@ -11,7 +11,7 @@ header:
 #     - label: "<i class='fas fa-download'></i> Resume"
 #       url: "/assets/downloads/JM_Resume.txt"
 #       file_download: false
-excerpt: Robotics Engineer \| Engineering Educator \| STEM Communicator
+excerpt: Robotics Research Engineer
 feature_row:
   - image_path: /assets/images/Carlie_2_scaled.jpg
     alt: "Projects"
@@ -27,7 +27,7 @@ feature_row:
     alt: "Media Appearances"
     url: "/media/"
     btn_class: "btn--primary"
-    btn_label: "Media and Events"      
+    btn_label: "Photography"      
 ---
 
 <!-- *Any sufficiently advanced technology is indistinguishable from magic.* - Arthur C. Clarke -->
@@ -40,14 +40,10 @@ feature_row:
 
 
 <p style="text-align: center; width: 85%; margin: 0 auto 0.75em auto;">
-Robotics engineering is my passion, alongside engineering education and STEM communication. My current role has me pushing the boundaries of technology by designing and building robotic systems and assessing their capabilities in real-world applications. Teaching others about STEM through engaging and dynamic demonstrations inspires and excites me.
+Home page statement on who I am and what I do
 <br>
 <a href="/about_me/">Learn more about me...</a>
 </p>
-
-<!-- <p>
-I am a robotics engineer, engineering educator and STEM communicator. I enjoy pushing the boundaries of technology by designing and building robotic systems and assessing their capabilities in real-world applications. I am also passionate about creating and presenting engaging demonstrations to teach others about STEM. <a href="/about_me/">Learn more about me...</a>
-</p> -->
 
 {% include feature_row %}
 
