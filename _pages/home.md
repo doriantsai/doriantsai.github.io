@@ -13,18 +13,18 @@ header:
 #       file_download: false
 excerpt: Robotics Research Engineer
 feature_row:
-  - image_path: /assets/images/Carlie_2_scaled.jpg
+  - image_path: /assets/images/20210126_panda_motion_720p.png
     alt: "Projects"
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Projects"
-  - image_path: /assets/images/Books_cropped.jpeg
+  - image_path: /assets/images/20210126_hydroponics_720p.png
     alt: "Publications"
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "Publications"
-  - image_path: /assets/images/BrainBuzz_original.jpg
-    alt: "Media Appearances"
+  - image_path: /assets/images/20190818_NewZealand_Dorian-1.png
+    alt: "Photography"
     url: "/media/"
     btn_class: "btn--primary"
     btn_label: "Photography"      

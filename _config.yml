@@ -82,7 +82,7 @@ plugins:
 # Author Sidebar Settings
 author:
   name   : "Dorian Tsai"
-  avatar : "/assets/images/dm_profile.png"
+  avatar : "/assets/images/dt_profile.png"
   bio    : "Robotics Research Engineer"
   location: "Brisbane, Australia"
   links:
