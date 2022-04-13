@@ -9,10 +9,10 @@ feature_row_1:
     - image_path: /assets/images/20211125-AIMS_CoralSpawning-68_720p.png
       alt: "Coral Spawning"
       title: "Automation Opportunities for Reef Restoration"
-      excerpt: "As project specialist in automation for the Reef Restoration and Adaptation Program (RRAP), I identify, conceptualize and cost automation opportunities, such as autonomous vehicles, automation-friendly infrastructure, sensors and computer vision, to help scale local reef restoration research projects to production levels that will span across and help save the Great Barrier Reef."
+      excerpt: "As project specialist in automation for the Reef Restoration and Adaptation Program (RRAP), I identified, conceptualized and budgeted automation opportunities, such as autonomous vehicles, automation-friendly infrastructure, sensors and computer vision, to help scale local reef restoration research projects to production levels that will span across and help save the Great Barrier Reef. Currently, I am  helping write and manage the project plans for the development and production of these technologies."
       btn_label: "Learn More"
       btn_class: "btn--primary"
-      url: https://gbrrestoration.org/
+      url: https://gbrrestoration.org/program/integrated-logistics-automation/
     - image_path: /assets/images/agkelpie_tussock_detection.png
       alt: "Serrated Tussock Detection"
       title: "Automatic Weed Species Detection for Smart Farm Management"
