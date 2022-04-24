@@ -46,7 +46,7 @@ github:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "plum"
 # Outputting
 # permalink: /:categories/:title/
