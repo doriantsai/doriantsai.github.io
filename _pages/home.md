@@ -14,6 +14,7 @@ header:
 excerpt: Robotics Research Engineer
 feature_row:
   - image_path: /assets/images/20210126_panda_motion_720p.png
+    width: 2000px
     alt: "Projects"
     url: "/projects/"
     btn_class: "btn--primary"
@@ -42,7 +43,7 @@ feature_row:
 <p style="text-align: center; width: 85%; margin: 0 auto 0.75em auto;">
 Robotics and photonics are my two intertwined passions. 
 <br>
-<a href="/about_me/">Learn more about me...</a>
+<!-- <a href="/about_me/">Learn more about me...</a> -->
 </p>
 
 {% include feature_row %}
