@@ -13,7 +13,7 @@ header:
 #       file_download: false
 excerpt: Robotics Research Engineer
 feature_row:
-  - image_path: /assets/images/20210126_panda_motion_720p.png
+  - image_path: /assets/images/20210126-untitled shoot-ACRV_Robots-27.jpg
     width: 2000px
     alt: "Projects"
     url: "/projects/"
@@ -24,7 +24,7 @@ feature_row:
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "Publications"
-  - image_path: /assets/images/20190818_NewZealand_Dorian-1.png
+  - image_path: /assets/images/20190818-untitled shoot-20190818_NewZealand_Dorian-1.jpg
     alt: "Photography"
     url: "/media/"
     btn_class: "btn--primary"
