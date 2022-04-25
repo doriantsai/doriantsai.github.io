@@ -7,7 +7,7 @@ classes: wide
 <h1 style="text-align: center; margin-bottom: 1em;">Research Publications</h1>
 
 <p style="text-align: center; border-bottom: 2px solid #aaa; padding-bottom: 0.75em; margin: 0 12% 0.75em 12%;"><a href="https://ieeexplore.ieee.org/document/9468955" style="text-decoration: none; font-style: italic;">Refractive Light-Field Features for Curved Transparent Objects in Structure From Motion</a><br>D. Tsai, D. G. Dansereau, T. Peynot, and P. Corke<br>IEEE Robotics and Automation Letters (RAL)<br>October 2021 
-<img align="right" width="100" height="100" src="/assets/images/refracted_lightfield_features.pdf">
+<img align="right" width="100" height="100" src="/assets/images/DT_profile.jpg">
 </p>
 
 
