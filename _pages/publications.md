@@ -8,7 +8,7 @@ classes: wide
 
 
 | D. Tsai, D. G. Dansereau, T. Peynot and P. Corke, "**Refractive Light-Field Features for Curved Transparent Objects in Structure From Motion**", IEEE Robotics and Automation Letters (RA-L, IROS), October 2021. Available on [IEEE](https://ieeexplore.ieee.org/document/9468955) and [arXiv](https://arxiv.org/abs/2103.15349). | <img align="right" alt="refracted light-field features" width="480" src="/assets/images/refracted_lightfield_features.png"/> |
-<!-- 
+
 | C. Lehnert, D. Tsai, A. Eriksson, C. McCool, "**3D Move to See: Multi-perspective visual servoing towards the next best view within unstructured and occluded environments**", IEEE International Conference on Intelligent Robots and Systems (IROS), November 2019. Available on [IEEE](https://ieeexplore.ieee.org/document/8967918) and [arXiv](https://arxiv.org/abs/1809.07896). | <img align="right" width="480" alt="Move To See Camera" src="/assets/images/MoveToSee.png"/> |
 
 | D. Tsai, D. G. Dansereau, T. Peynot and P. Corke, "**Distinguishing Refracted Features Using Light Field Cameras With Application to Structure From Motion**", IEEE Robotics and Automation Letters (RA-L, ICRA), April 2019. Available on [IEEE](https://ieeexplore.ieee.org/document/8556460) and [arXiv](https://arxiv.org/abs/1806.07375). | <img align="right" alt="light-field camera on robot arm" width="480" src="/assets/images/KinovaIllum-3_labelled.jpg"/> |
@@ -21,6 +21,5 @@ classes: wide
 
 | D. Tsai, I. A. D. Nesnas, and D. Zarzhitsky, "**Autonomous Vision-Based Tether-Assisted Rover Docking**", IEEE International Conference on Intelligent Robots and Systems (IROS), November 2013. Available on [IEEE](https://ieeexplore.ieee.org/document/6696757). | <img align="right" alt="duaxel rover" width="480" src="/assets/images/DuAxelDescent.jpg"/> |
 
-| J. A. Marshall and D. Tsai, "**Brief paper periodic formations of multivehicle systems**", IET Control Theory & Applications, March 2011. Available on [ResearchGate](https://www.researchgate.net/publication/224225603_Periodic_formations_of_multivehicle_systems). | <img align="right" alt="multivehicle weave pattern" width="480" src="/assets/images/multivehicle_weave.png"/> | -->
-
+| J. A. Marshall and D. Tsai, "**Brief paper periodic formations of multivehicle systems**", IET Control Theory & Applications, March 2011. Available on [ResearchGate](https://www.researchgate.net/publication/224225603_Periodic_formations_of_multivehicle_systems). | <img align="right" alt="multivehicle weave pattern" width="480" src="/assets/images/multivehicle_weave.png"/> |
 
