@@ -8,7 +8,7 @@ classes: wide
 
 
  | 
-:-----------------------------------------------|-------------:
+:-----------------------------------------------|---------------------------:
 D. Tsai, D. G. Dansereau, T. Peynot and P. Corke, "**Refractive Light-Field Features for Curved Transparent Objects in Structure From Motion**", IEEE Robotics and Automation Letters (RA-L, IROS), October 2021. Available on [IEEE](https://ieeexplore.ieee.org/document/9468955) and [arXiv](https://arxiv.org/abs/2103.15349). | [<img src="/assets/images/refracted_lightfield_features.png" width="480" />](/assets/images/refracted_lightfield_features.png)
 C. Lehnert, D. Tsai, A. Eriksson, C. McCool, "**3D Move to See: Multi-perspective visual servoing towards the next best view within unstructured and occluded environments**", IEEE International Conference on Intelligent Robots and Systems (IROS), November 2019. Available on [IEEE](https://ieeexplore.ieee.org/document/8967918) and [arXiv](https://arxiv.org/abs/1809.07896). | [<img src="/assets/images/MoveToSee.png" width="480"/>](/assets/images/MoveToSee.png)
 D. Tsai, D. G. Dansereau, T. Peynot and P. Corke, "**Distinguishing Refracted Features Using Light Field Cameras With Application to Structure From Motion**", IEEE Robotics and Automation Letters (RA-L, ICRA), April 2019. Available on [IEEE](https://ieeexplore.ieee.org/document/8556460) and [arXiv](https://arxiv.org/abs/1806.07375). | <img align="right" alt="light-field camera on robot arm" width="480" src="/assets/images/KinovaIllum-3_labelled.jpg"/> 

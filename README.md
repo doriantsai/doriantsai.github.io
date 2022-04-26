@@ -1,4 +1,10 @@
-# Minimal Mistakes remote theme starter
+# Dorian's personal website
+
+This repo is Dorian's personal website hosted via Github Pages. I found a template that I liked (courtesy of James Mount), forked it and tweaked it to my heart's content.
+
+See below for the how-to.
+
+## Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
